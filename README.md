@@ -1,5 +1,9 @@
 # ArtifactManager
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Java](https://img.shields.io/badge/Java-21%2B-informational)
+
+
 Enkel Java-konsollapp som lagrer og henter informasjon om historiske gjenstander.
 Prosjektet demonstrerer klassisk OOP (arv, polymorfi, innkapsling) og database-tilkobling via **JDBC** til **MySQL**.
 
